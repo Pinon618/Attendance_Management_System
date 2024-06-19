@@ -1,1 +1,2 @@
-..
+HI...
+Welcome to our newbie MERN project.
